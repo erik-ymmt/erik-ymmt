@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @erik-ymmt
-- 👀 I’m interested in starting a new career
+- 👋 Hi, I’m Erik @erik-ymmt
 - 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate on everything i can
 - 📫 How to reach me erik.ymmt@gmail.com
 
-<!---
-erik-ymmt/erik-ymmt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erik-ymmt&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erik-ymmt&show_icons=true&theme=dracula)

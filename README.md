@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Erik @erik-ymmt
-- 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate on everything i can
 - 📫 How to reach me erik.ymmt@gmail.com
 

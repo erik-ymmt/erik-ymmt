@@ -1,6 +1,7 @@
-I'm a developer eager for new learning experiences. For almost six years, I have worked as an architect, working in several areas of the sector, including management. However, despite not losing interest in the profession, I found myself in technology, a field that highlighted my taste for logic and innovation.
+### Hi there! I'm Erik,
+a developer eager for new learning experiences. For almost six years, I have worked as an architect and urbanist, however, last year I found myself in    technology, a field that highlighted my taste for logic and innovation.
 
-Currently, I am studying to be a Full Stack web developer. These are some technologies that I have been developing:
+Currently, I am studying to be a **Full Stack** web developer. These are some technologies that I have been developing:
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -16,5 +17,3 @@ Currently, I am studying to be a Full Stack web developer. These are some techno
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erik-ymmt&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erik-ymmt&show_icons=true&theme=dracula)
-
-Tecnologias: 

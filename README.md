@@ -18,7 +18,7 @@ Currently, I am studying to be a **Full Stack** web developer. These are some te
 <p align="left">
   <a href="https://www.linkedin.com/in/erikyamamoto/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-erik" /></a>
   <a href="mailto:erik.ymmt@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/EMAIL-9cf?style=for-the-badge&logo=gmail" alt="email-erik" /></a>
-  <span>erik.ymmt@gmail.com</span>
+  <span><em>erik.ymmt@gmail.com</em></span>
 </p> 
 <br>
 <div>

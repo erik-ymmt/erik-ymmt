@@ -17,12 +17,11 @@ Currently, I am studying to be a **Full Stack** web developer. These are some te
 <h3 align="left">Contact me!</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/erikyamamoto/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-erik" /></a>
-  
   <a href="mailto:erik.ymmt@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/EMAIL-9cf?style=for-the-badge&logo=gmail" alt="email-erik" /></a>
   <span>erik.ymmt@gmail.com</span>
 </p> 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erik-ymmt&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erik-ymmt&show_icons=true&theme=dracula)
+<br>
+<div>
+  <img height="165em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik-ymmt&layout=compact&theme=dracula"/>
+  <img height="165em" alt="Github Status" src="https://github-readme-stats.vercel.app/api?username=erik-ymmt&theme=dracula"/>
+</div>

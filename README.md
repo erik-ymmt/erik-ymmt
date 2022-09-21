@@ -27,6 +27,6 @@ Currently, I am studying to be a **Full Stack** web developer. These are some te
 </p> 
 <br>
 <div>
-  <img height="165em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik-ymmt&layout=compact&theme=dracula"/>
-  <img height="165em" alt="Github Status" src="https://github-readme-stats.vercel.app/api?username=erik-ymmt&theme=dracula"/>
+  <img height="140em" alt="Github Status" src="https://github-readme-stats.vercel.app/api?username=erik-ymmt&theme=dracula&count_private=true&show_icons=true&hide=contribs,issues"/>
+  <img height="140em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik-ymmt&layout=compact&theme=dracula"/>
 </div>

@@ -11,6 +11,8 @@ Currently, I am studying to be a **Full Stack** web developer. These are some te
     <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=9c305a&color=1c1c1c"/>
     <img src="https://img.shields.io/badge/rtl-323330?style=for-the-badge&logo=testing-library&logoColor=9c0002&color=grey"/>
   <br />
+    <img src="https://img.shields.io/badge/node.js-%23F05033.svg?style=for-the-badge&logo=node.js&logoColor=684O63&color=1c1c1c" />
+    <img src="https://img.shields.io/badge/express-%23F05033.svg?style=for-the-badge&logo=express&logoColor=white&color=grey" />
     <img src="https://img.shields.io/badge/mysql-%23F05033.svg?style=for-the-badge&logo=mysql&logoColor=407399&color=1c1c1c" />
     <img src="https://img.shields.io/badge/docker-%23F05033.svg?style=for-the-badge&logo=docker&logoColor=238fe0&color=grey" />
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=red&color=1c1c1c" />

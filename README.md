@@ -3,25 +3,25 @@ a developer eager for new learning experiences. For almost six years, I have wor
 
 Currently, I am studying to be a **Full Stack** web developer. These are some technologies that I have been working with:
 <div>
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=grey" />
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=1c1c1c" />
-    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=380053&color=grey" />
-    <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=red&color=1c1c1c" />
-    <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=blue&color=grey" />
-    <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=9c305a&color=1c1c1c"/>
-    <img src="https://img.shields.io/badge/rtl-323330?style=for-the-badge&logo=testing-library&logoColor=9c0002&color=grey"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=grey" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=1c1c1c" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=380053&color=grey" />
+  <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=red&color=1c1c1c" />
+  <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=blue&color=grey" />
+  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=9c305a&color=1c1c1c"/>
+  <img src="https://img.shields.io/badge/rtl-323330?style=for-the-badge&logo=testing-library&logoColor=9c0002&color=grey"/>
   <br />
-    <img src="https://img.shields.io/badge/node.js-%23F05033.svg?style=for-the-badge&logo=node.js&logoColor=684O63&color=1c1c1c" />
-    <img src="https://img.shields.io/badge/express-%23F05033.svg?style=for-the-badge&logo=express&logoColor=white&color=grey" />
-    <img src="https://img.shields.io/badge/mysql-%23F05033.svg?style=for-the-badge&logo=mysql&logoColor=407399&color=1c1c1c" />
-    <img src="https://img.shields.io/badge/docker-%23F05033.svg?style=for-the-badge&logo=docker&logoColor=238fe0&color=grey" />
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=red&color=1c1c1c" />
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=grey" />
-
+  <img src="https://img.shields.io/badge/node.js-%23F05033.svg?style=for-the-badge&logo=node.js&logoColor=684O63&color=1c1c1c" />
+  <img src="https://img.shields.io/badge/express-%23F05033.svg?style=for-the-badge&logo=express&logoColor=white&color=grey" />
+  <img src="https://img.shields.io/badge/mysql-%23F05033.svg?style=for-the-badge&logo=mysql&logoColor=407399&color=1c1c1c" />
+  <img src="https://img.shields.io/badge/docker-%23F05033.svg?style=for-the-badge&logo=docker&logoColor=238fe0&color=grey" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=red&color=1c1c1c" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=grey" />
 </div>
 
 <h3 align="left">Check my Portfolio</h3>
-  <a href="https://erikyamamoto.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/PORTFOLIO-9cf?style=for-the-badge&color=1c1c1c&logo=netlify" alt="porfolio-erik" /></a>
+<a href="https://erikyamamoto.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/PORTFOLIO-9cf?style=for-the-badge&color=1c1c1c&logo=netlify" alt="porfolio-erik" /></a>
+<a href="https://drive.google.com/file/d/1ZY5CUuA64LPIZnffW5iFoKdVTthBJ7Zt/view?usp=sharing" target="blank"><img align="center" src="https://img.shields.io/badge/resume-9cf?style=for-the-badge&color=grey&logoColor=white&logo=googledrive" alt="resume-erik" /></a>
 
 <h3 align="left">Contact me!</h3>
 <p align="left">

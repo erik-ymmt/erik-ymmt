@@ -13,10 +13,11 @@ Currently, I am studying to be a **Full Stack** web developer. These are some te
   <br />
   <img src="https://img.shields.io/badge/node.js-%23F05033.svg?style=for-the-badge&logo=node.js&logoColor=684O63&color=1c1c1c" />
   <img src="https://img.shields.io/badge/express-%23F05033.svg?style=for-the-badge&logo=express&logoColor=white&color=grey" />
-  <img src="https://img.shields.io/badge/mysql-%23F05033.svg?style=for-the-badge&logo=mysql&logoColor=407399&color=1c1c1c" />
-  <img src="https://img.shields.io/badge/docker-%23F05033.svg?style=for-the-badge&logo=docker&logoColor=238fe0&color=grey" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=red&color=1c1c1c" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=grey" />
+  <img src="https://img.shields.io/badge/sequelize-%23F05033.svg?style=for-the-badge&logo=sequelize&logoColor=white&color=1c1c1c" />
+  <img src="https://img.shields.io/badge/mysql-%23F05033.svg?style=for-the-badge&logo=mysql&logoColor=407399&color=grey" />
+  <img src="https://img.shields.io/badge/docker-%23F05033.svg?style=for-the-badge&logo=docker&logoColor=238fe0&color=1c1c1c" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=red&color=grey" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=1c1c1c" />
 </div>
 
 <h3 align="left">Check my Portfolio</h3>

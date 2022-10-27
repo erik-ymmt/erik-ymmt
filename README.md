@@ -16,6 +16,8 @@ Currently, I am studying to be a **Full Stack** web developer. These are some te
   <img src="https://img.shields.io/badge/sequelize-%23F05033.svg?style=for-the-badge&logo=sequelize&logoColor=white&color=1c1c1c" />
   <img src="https://img.shields.io/badge/mysql-%23F05033.svg?style=for-the-badge&logo=mysql&logoColor=407399&color=grey" />
   <img src="https://img.shields.io/badge/docker-%23F05033.svg?style=for-the-badge&logo=docker&logoColor=238fe0&color=1c1c1c" />
+  <img src="https://img.shields.io/badge/chai-%23F05033.svg?style=for-the-badge&logo=chai&logoColor=9a000c&color=grey" />
+  <br />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=red&color=grey" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=1c1c1c" />
 </div>

@@ -1,7 +1,7 @@
 ### Hi there! I'm Erik,
-a developer eager for new learning experiences. For almost six years, I have worked as an architect and urbanist, however, last year I found myself in    technology, a field that highlighted my taste for logic and innovation.
+a backend developer eager for new learning experiences. For almost six years, I have worked as an architect and urbanist, however, last year I found myself in technology, a field that highlighted my taste for logic and innovation.
 
-Currently, I am studying to be a **Full Stack** web developer (leaning towards back-end). These are some technologies that I have been working with:
+Currently, I am studying **Full Stack** web development. These are some technologies that I have been working with:
 <div>
   <img src="https://img.shields.io/badge/node.js-%23F05033.svg?style=for-the-badge&logo=node.js&logoColor=684O63&color=1c1c1c" />
   <img src="https://img.shields.io/badge/typescript-%23F05033.svg?style=for-the-badge&logo=typescript&logoColor=684O63&color=grey" />

@@ -1,5 +1,5 @@
 ### Hi there! I'm Erik,
-a backend developer eager for new learning experiences. For almost six years, I have worked as an architect and urbanist, however, last year I found myself in technology, a field that highlighted my taste for logic and innovation.
+a back-end/full-stack developer eager for new learning experiences. For almost six years, I have worked as an architect and urbanist, however, last year I found myself in technology, a field that highlighted my taste for logic and innovation.
 
 Currently, I am studying **Full Stack** web development. These are some technologies that I have been working with:
 <div>

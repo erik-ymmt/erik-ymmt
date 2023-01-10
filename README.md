@@ -37,8 +37,8 @@ Currently, I am studying **Full Stack** web development. These are some technolo
   <a href="mailto:erik.ymmt@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/EMAIL-9cf?style=for-the-badge&logo=gmail&logoColor=red&color=1c1c1c" alt="email-erik" /></a>
   <span> → <em>erik.ymmt@gmail.com</em></span>
 </p> 
-<br>
+<!-- <br>
 <div>
   <img height="140em" alt="Github Status" src="https://github-readme-stats.vercel.app/api?username=erik-ymmt&theme=dracula&show_icons=true&hide=contribs,stars&count_private=true"/>
   <img height="140em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik-ymmt&layout=compact&theme=dracula"/>
-</div>
+</div> -->

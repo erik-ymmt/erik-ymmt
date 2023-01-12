@@ -38,7 +38,7 @@ Currently, I am studying **Full Stack** web development. These are some technolo
   <span> → <em>erik.ymmt@gmail.com</em></span>
 </p> 
 <br>
-<div>
+<!-- <div>
   <img height="140em" alt="Github Status" src="https://github-readme-stats.vercel.app/api?username=erik-ymmt&theme=dracula&show_icons=true&hide=contribs,stars&count_private=true"/>
   <img height="140em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik-ymmt&layout=compact&theme=dracula"/>
-</div>
+</div> -->

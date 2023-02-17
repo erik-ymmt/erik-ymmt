@@ -1,7 +1,7 @@
 ### Hi there! I'm Erik,
 a fullstack developer eager for new learning experiences. For almost six years, I have worked as an architect and urbanist, however, I found myself in technology, a field that highlighted my taste for logic and innovation.
 
-Currently, I am studying **Full Stack** web development. These are some technologies that I have been working with:
+These are some technologies that I have been working with:
 <div>
   <img src="https://img.shields.io/badge/node.js-%23F05033.svg?style=for-the-badge&logo=node.js&logoColor=684O63&color=1c1c1c" />
   <img src="https://img.shields.io/badge/typescript-%23F05033.svg?style=for-the-badge&logo=typescript&logoColor=684O63&color=grey" />
@@ -25,6 +25,7 @@ Currently, I am studying **Full Stack** web development. These are some technolo
   <img src="https://img.shields.io/badge/docker-%23F05033.svg?style=for-the-badge&logo=docker&logoColor=238fe0&color=1c1c1c" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=red&color=grey" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=1c1c1c" />
+  <img src="https://img.shields.io/badge/python-%23F05033.svg?style=for-the-badge&logo=python&logoColor=yellow&color=grey" />
 </div>
 
 <h3 align="left">Check my Portfolio</h3>

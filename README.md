@@ -3,6 +3,8 @@ a fullstack developer eager for new learning experiences. For almost six years, 
 
 These are some technologies that I have been working with:
 <div>
+  <img src="https://img.shields.io/badge/Oracle_Netsuite_Suitescript-%23F05033.svg?style=for-the-badge&logo=netsuite.js&logoColor=684O63&color=grey" />
+  <br />
   <img src="https://img.shields.io/badge/node.js-%23F05033.svg?style=for-the-badge&logo=node.js&logoColor=684O63&color=1c1c1c" />
   <img src="https://img.shields.io/badge/typescript-%23F05033.svg?style=for-the-badge&logo=typescript&logoColor=684O63&color=grey" />
   <img src="https://img.shields.io/badge/express-%23F05033.svg?style=for-the-badge&logo=express&logoColor=white&color=1c1c1c" />
